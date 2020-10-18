@@ -42,11 +42,11 @@ instala todas las dependencias que se encuentren en package.json
 
 instala un paquete con una versión establecida
 
-Podemos usar __lasted__ para traernos la ultima versión
+Podemos usar __latest__ para traernos la ultima versión
 
-#### npm i <PACKAGE> --opcional
+#### npm i <PACKAGE> --save-optional
 
---opcional puede ser abreviado con **-O**
+--save-optional puede ser abreviado con **-O**
 
 instalación de un paquete de manera opcional en la sección de __optionalDependencies__ 
 
