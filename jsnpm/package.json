@@ -1,0 +1,24 @@
+{
+  "name": "jsnpm",
+  "version": "1.0.0",
+  "description": "Construir un paquete para node",
+  "main": "src/index.js",
+  "scripts": {},
+  "keywords": [
+    "javascript",
+    "node",
+    "package"
+  ],
+  "author": "aomineDev <aomine1745@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {
+    "date-fns": "^2.16.1",
+    "webpack": "^5.1.3"
+  },
+  "optionalDependencies": {
+    "eslint": "^7.11.0"
+  }
+}
