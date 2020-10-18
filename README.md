@@ -18,11 +18,19 @@
 
 #### npm init -y
 
+<div align="right">
+  <small><a href="#index">🡡 volver al inicio</a></small>
+</div>
+
 ### npm set
 
 #### npm set init.author.name <NAME>
 #### npm set init.author.name <EMAIL>
 #### npm set init.license <LICENSE>
+
+<div align="right">
+  <small><a href="#index">🡡 volver al inicio</a></small>
+</div>
 
 ### npm install
 
@@ -46,7 +54,11 @@ instalación de un paquete de manera opcional en la sección de __optionalDepend
 
 --force puede ser abreviado con **-f**
 
-Fuerca la instalación de un paquete 
+Fuerca la instalación de un paquete
+
+<div align="right">
+  <small><a href="#index">🡡 volver al inicio</a></small>
+</div>
 
 ### npm list
 
