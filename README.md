@@ -1,7 +1,18 @@
-# NPM - Platzi
+# npm - Platzi
 
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/120px-Npm-logo.svg.png" alt="npm logo">
+  <h5 style="font-weight:bold;" >npm by aomine</h5>
+</div>
 
-## npm Comands
+## Index
+
+- [1. Introducción](#introducción)
+  - [¿Qué es npm?](#qué-es-npm)
+- [2. npm comands](#npm-comands)
+  - [npm init](#npm-init)
+
+## npm comands
 
 ### npm init
 
@@ -118,3 +129,13 @@ añade el paquete de forma local a nuestro pc
 * Y por último para publicar nuestro paquete usaremos `npm publish`
 
 * Y listo ahora nuestro paquete estara disponible para instalarlo en cualquier proyecto
+
+### npm version
+
+Para cambiar la version de nuestro proyecto cada vez que actualizamos el código
+
+Para esto podemo ejecutar alguno de esteos comandos según el tipo de actualización
+
+#### npm version major
+#### npm version minor
+#### npm version patch

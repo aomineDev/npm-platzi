@@ -1,6 +1,6 @@
 {
   "name": "aomine-random-messages",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Whenever I start a new project, I don't know what to write for the forst commitm After doing a 'git init' there is technically nothing there...",
   "main": "src/index.js",
   "scripts": {},
@@ -11,6 +11,14 @@
   ],
   "author": "aomineDev <aomine1745@gmail.com>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aomineDev/npm-platzi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aomineDev/npm-platzi/issues"
+  },
+  "homepage": "https://github.com/aomineDev/npm-platzi#readme",
   "bin": {
     "random-msg": "./bin/global.js"
   },
